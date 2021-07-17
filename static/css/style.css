@@ -1,0 +1,24 @@
+body {
+    background-color: lightgrey;
+}
+    
+   
+
+  .jumbotron {
+    background-image: url("diversity_bacteria.png");
+    background-size: 100% 100%;
+    text-align: center;
+    
+
+    }
+
+    .jumbotron h1{
+        color: #fff;
+        text-shadow: 1px 1px;
+        font-family: "Copperplate", Times, serif;
+    }
+    
+    .jumbotron p{
+        color: #fff;
+        font-family: "Lucida Console", "Courier New", monospace;
+    }
